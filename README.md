@@ -19,7 +19,7 @@ declare a function called grading where we use else-if to do our grading and con
 @@ -58,12 +62,21 @@ we call the grading function at the end
    ```
   ### step 3
-  to run the .js file we use the following command in our terminal
+  To run the .js file we use the following command in our terminal
         `node nameOfYourJsFile.js`
 
 `node nameOfYourJsFile.js`
